@@ -1,0 +1,3 @@
+SUCCESS #ship
+SUCCESS #torpedo1
+FAIL    #torpedo2

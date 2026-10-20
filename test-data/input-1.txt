@@ -1,0 +1,2 @@
+GT4500,1,0.0,0,0.0 # 1 torpedo in primary, 0 in secondary
+TORPEDO,SINGLE # Should fire from primary successfully

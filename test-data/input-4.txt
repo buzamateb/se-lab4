@@ -1,0 +1,2 @@
+GT4500,1,1.0,1,0.0 # Primary 100% fail rate
+TORPEDO,SINGLE # Fails, does NOT switch to secondary

@@ -1,0 +1,3 @@
+GT4500,2,0.0,0,0.0 # 2 in primary, 0 in secondary
+TORPEDO,SINGLE # Fires primary (1 left)
+TORPEDO,SINGLE # Secondary empty, fires primary again
