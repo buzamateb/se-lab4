@@ -1,0 +1,3 @@
+GT4500,1,0.0,1,0.0 # 1-1 torpedos
+TORPEDO,SINGLE # Fires primary
+TORPEDO,SINGLE # Fires secondary
